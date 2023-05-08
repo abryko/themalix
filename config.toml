@@ -52,8 +52,7 @@ theme = "elate"
 
   [[params.intro.item]]
     title = "Plan"
-    description = "Themalix give you the possibility to make your dreams come true
-    "
+    description = "Themalix give you the possibility to make your dreams come true"
     url = "#"
     button = "Get In Touch"
     icon = "icon-bulb"
